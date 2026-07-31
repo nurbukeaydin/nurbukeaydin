@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&height=45&lines=iOS+%26+Mobile+Development;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+SwiftData;SQL+%E2%80%A2+Database+Systems+%E2%80%A2+Data+Management"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=750&height=45&lines=iOS+%26+Mobile+Development;SQL+%E2%80%A2+Database+Systems+%E2%80%A2+Data+Management"
     alt="Typing animation"
   />
 </p>
