@@ -75,7 +75,7 @@ def create_svg(calendar: dict) -> str:
     step = cell + gap
 
     left = 28
-    top = 62
+    top = 22
     duration = 14
 
     grid_width = len(weeks) * step - gap
