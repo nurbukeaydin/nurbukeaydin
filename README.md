@@ -23,8 +23,12 @@
 - 🍎 Developing applications with Swift and SwiftUI
 - 🗄️ Interested in SQL, database systems and data management
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=swift,xcode,sqlite,postgres,git,github" alt="Tech Stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,xcode,sqlite,postgres,mysql,html,css,js,react,nodejs,express,git,github,vscode,postman&perline=15" alt="Technologies and Tools">
+</p>
+
+<p align="center">
+  SwiftUI • SwiftData • iOS Development • SQL • Database Design
 </p>
