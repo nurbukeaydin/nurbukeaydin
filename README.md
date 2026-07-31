@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nurbüke</h1>
 
 <p align="center">
-  Computer Engineering Student • iOS & Mobile Development • Databases
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=4000&pause=1200&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=Computer+Engineering+Student;Building+iOS+Apps+with+Swift;Interested+in+Databases+%26+Data+Management"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
