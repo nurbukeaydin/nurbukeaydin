@@ -31,3 +31,12 @@
 <p align="center">
   SwiftUI • SwiftData • iOS Development • SQL • Database Design
 </p>
+
+
+<br>
+
+## ✨ My Contribution Journey
+
+<p align="center">
+  <img src="./assets/contribution-flight.svg" alt="Nurbüke's Contribution Flight">
+</p>
