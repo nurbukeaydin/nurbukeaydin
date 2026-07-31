@@ -37,6 +37,6 @@
 
 ## ✨ My Contribution Journey
 
-<p align="center">
-  <img src="./assets/contribution-flight.svg?v=3" alt="Nurbüke's Contribution Flight">
-</p>
+<div align="center">
+  <img src="./assets/contribution-flight.svg?v=4" alt="Nurbüke's Contribution Flight" width="100%">
+</div>
