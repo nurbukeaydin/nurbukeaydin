@@ -164,8 +164,8 @@ def create_svg(calendar: dict) -> str:
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     width="{width}"
-    height="188"
-    viewBox="0 0 {width} 188"
+    height="150"
+    viewBox="0 0 {width} 150"
 >
 
 <defs>
@@ -205,27 +205,7 @@ def create_svg(calendar: dict) -> str:
 <style>
 
 
-  .text {{
-    font:
-      500 12px
-      -apple-system,
-      BlinkMacSystemFont,
-      "Segoe UI",
-      sans-serif;
-
-    fill: #9ca3af;
-  }}
-
 </style>
-
-<text
-    x="{width - left}"
-    y="27"
-    text-anchor="end"
-    class="text"
->
-  {total} contributions
-</text>
 
 {"".join(cells)}
 
@@ -272,7 +252,7 @@ def create_svg(calendar: dict) -> str:
 
 <rect
     x="{left}"
-    y="178"
+    y="138"
     width="{grid_width}"
     height="6"
     rx="3"
@@ -282,7 +262,7 @@ def create_svg(calendar: dict) -> str:
 
 <rect
     x="{left}"
-    y="178"
+    y="138"
     width="0"
     height="6"
     rx="3"
