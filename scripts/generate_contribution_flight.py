@@ -164,8 +164,8 @@ def create_svg(calendar: dict) -> str:
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     width="{width}"
-    height="205"
-    viewBox="0 0 {width} 205"
+    height="188"
+    viewBox="0 0 {width} 188"
 >
 
 <defs>
@@ -204,17 +204,6 @@ def create_svg(calendar: dict) -> str:
 
 <style>
 
-  .title {{
-    font:
-      700 16px
-      -apple-system,
-      BlinkMacSystemFont,
-      "Segoe UI",
-      sans-serif;
-
-    fill: #c084fc;
-    letter-spacing: 1.2px;
-  }}
 
   .text {{
     font:
@@ -228,14 +217,6 @@ def create_svg(calendar: dict) -> str:
   }}
 
 </style>
-
-<text
-    x="{left}"
-    y="27"
-    class="title"
->
-  NURBÜKE'S CODE FLIGHT
-</text>
 
 <text
     x="{width - left}"
@@ -328,13 +309,6 @@ def create_svg(calendar: dict) -> str:
 
 </rect>
 
-<text
-    x="{left}"
-    y="199"
-    class="text"
->
-  Building, learning, and growing — one commit at a time.
-</text>
 
 </svg>
 """
