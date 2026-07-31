@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nurbüke Aydın</h1>
 
-<!--
-**nurbukeaydin/nurbukeaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Engineering Student | iOS & Mobile Development | AI & Databases
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 About Me
+
+- 🎓 Final-year Computer Engineering student at Doğuş University
+- 📱 Focused on iOS development with Swift and SwiftUI
+- 🧠 Building local AI and RAG-based applications
+- 🗄️ Interested in database systems and data management
+- 🌱 Learning new technologies by building practical projects
