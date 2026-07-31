@@ -75,7 +75,7 @@ def create_svg(calendar: dict) -> str:
     step = cell + gap
 
     left = 28
-    top = 22
+    top = 4
     duration = 14
 
     grid_width = len(weeks) * step - gap
@@ -164,8 +164,8 @@ def create_svg(calendar: dict) -> str:
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     width="{width}"
-    height="150"
-    viewBox="0 0 {width} 150"
+    height="120"
+    viewBox="0 0 {width} 120"
 >
 
 <defs>
@@ -252,7 +252,7 @@ def create_svg(calendar: dict) -> str:
 
 <rect
     x="{left}"
-    y="138"
+    y="110"
     width="{grid_width}"
     height="6"
     rx="3"
@@ -262,7 +262,7 @@ def create_svg(calendar: dict) -> str:
 
 <rect
     x="{left}"
-    y="138"
+    y="110"
     width="0"
     height="6"
     rx="3"
