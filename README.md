@@ -19,9 +19,8 @@
 ## 👩🏻‍💻 About Me
 
 - 🎓 Final-year Computer Engineering student at Doğuş University
-- 📱 Interested in iOS and mobile application development
-- 🍎 Developing applications with Swift and SwiftUI
-- 🗄️ Interested in SQL, database systems and data management
+- 📱 Building iOS applications with Swift and SwiftUI
+- 🗄️ Interested in SQL, database systems, and data management
 
 ## 🛠️ Technologies & Tools
 
