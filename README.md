@@ -30,13 +30,6 @@
     alt="Languages and Technologies"
   >
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/SwiftData-7C3AED?style=flat-square&logo=swift&logoColor=white" alt="SwiftData">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white" alt="SQL">
-</p>
-
 <br>
 
 ## ✨ My Contribution Journey
