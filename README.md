@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurbüke </h1>
 
 <h3 align="center">
-Computer Engineering Student | iOS & Mobile Development | AI & Databases
+Computer Engineering Student | iOS & Mobile Development | Databases
 </h3>
 
 ---
@@ -10,7 +10,6 @@ Computer Engineering Student | iOS & Mobile Development | AI & Databases
 
 - 🎓 Final-year Computer Engineering student at Doğuş University
 - 📱 Focused on iOS development with Swift and SwiftUI
-- 🧠 Building local AI and RAG-based applications
 - 🗄️ Interested in database systems and data management
 - 🌱 Learning new technologies by building practical projects
 
@@ -31,4 +30,41 @@ Computer Engineering Student | iOS & Mobile Development | AI & Databases
   <a href="https://nurbukeaydin.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
+</p>
+
+
+<br>
+
+## 🛠️ Technologies & Tools
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,xcode" alt="Mobile Development Technologies">
+</p>
+
+<p>
+  Swift • SwiftUI • SwiftData • iOS Development
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" alt="Web Development Technologies">
+</p>
+
+### 🧠 AI & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres" alt="AI and Database Technologies">
+</p>
+
+<p>
+  Retrieval-Augmented Generation • Embeddings • Microsoft Foundry Local
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools">
 </p>
