@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 👩🏻‍💻 About Me
+## 👩🏼‍💻 About Me
 
 - 🎓 Final-year Computer Engineering student at Doğuş University
 - 📱 Building iOS applications with Swift and SwiftUI
